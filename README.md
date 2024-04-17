@@ -1,4 +1,4 @@
-# Screne Perfume Website
+# Serene Perfume Website
 
 This is a captivating perfume website built using React, Tailwind CSS, and Firebase. The website showcases a collection of exquisite perfumes and provides users with an immersive browsing experience. It is designed to be visually stunning, user-friendly, and responsive.
 
