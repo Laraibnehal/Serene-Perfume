@@ -8,7 +8,13 @@ const cors = require('cors');
 const port =process.env.PORT || 4000;
 const products_routes = require("./router/product.js")
 const app = express()
-app.use(cors());
+app.use(cors(
+    {
+        origin: ["https://serene-perfume-tgyq.vercel.app/"],
+        methods: ["POST","GET" ],
+        credentials:true
+    }
+));
 app.use(require('./router/auth'))
 //middleware
 const middleware = (req, res, next)=>{
