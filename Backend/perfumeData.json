@@ -6,8 +6,7 @@
         "ratings":"5",
         "price":" 249",
         "quantity":"10ml",
-        "available-Item":10,
-        "image" : "../assets/cher-30.jpg"
+        "available-Item":10
     },
     {
         "name":"Arcane",
@@ -15,8 +14,7 @@
         "ratings":"4",
         "price":" 249",
         "quantity":"10ml",
-        "available-Item":10,
-        "image" : "../assets/Arcane 10ml.jp"
+        "available-Item":10
 
     },
     {
@@ -25,8 +23,7 @@
         "ratings":"4",
         "price":" 249",
         "quantity":"10ml",
-        "available-Item":10,
-        "image" : "../assets/"
+        "available-Item":10
     },
     {
         "name":"Verena",
@@ -34,8 +31,7 @@
         "ratings":"5",
         "price":" 249",
         "quantity":"10ml",
-        "available-Item":10,
-        "image" : "../assets/"
+        "available-Item":10
     },
     {
         "name":"Adira",
@@ -43,8 +39,7 @@
         "ratings":"5",
         "price":" 249",
         "quantity":"10ml",
-        "available-Item":10,
-        "image" : "../assets/"
+        "available-Item":10
     },
     {
         "name":"Arsh",
@@ -52,8 +47,7 @@
         "ratings":"5",
         "price":" 249",
         "quantity":"10ml",
-        "available-Item":10,
-        "image" : "../assets/"
+        "available-Item":10
     },
     {
         "name":"Orphic Musk",
@@ -61,8 +55,7 @@
         "ratings":"5",
         "price":" 279",
         "quantity":"10ml",
-        "available-Item":10,
-        "image" : "../assets/"
+        "available-Item":10
     },
     {
         "name":"Irenic Oud",
@@ -70,8 +63,7 @@
         "ratings":"5",
         "price":" 279",
         "quantity":"10ml",
-        "available-Item":10,
-        "image" : "../assets/"
+        "available-Item":10
     },
     {
         "name":"Jasmine",
@@ -79,8 +71,7 @@
         "ratings":"5",
         "price":" 249",
         "quantity":"10ml",
-        "available-Item":10,
-        "image" : "../assets/"
+        "available-Item":10
     },
 
 
@@ -93,8 +84,7 @@
         "ratings":"5",
         "price":" 379",
         "quantity":"30ml",
-        "available-Item":10,
-        "image": "../assets/cher-30.jpg"
+        "available-Item":10
     },
     {
         "name":"Arcane",
@@ -102,8 +92,7 @@
         "ratings":"4",
         "price":" 379",
         "quantity":"30ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
 
     },
     {
@@ -112,8 +101,7 @@
         "ratings":"4",
         "price":" 379",
         "quantity":"30ml",
-        "available-Item":10,
-        "image": "../assets/lubov-30.jpeg"
+        "available-Item":10
     },
     {
         "name":"Verena",
@@ -121,8 +109,7 @@
         "ratings":"5",
         "price":" 379",
         "quantity":"30ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Adira",
@@ -130,8 +117,7 @@
         "ratings":"5",
         "price":" 379",
         "quantity":"30ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Arsh",
@@ -139,8 +125,7 @@
         "ratings":"5",
         "price":" 379",
         "quantity":"30ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Orphic Musk",
@@ -148,8 +133,7 @@
         "ratings":"5",
         "price":" 479",
         "quantity":"30ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Irenic Oud",
@@ -157,8 +141,7 @@
         "ratings":"5",
         "price":" 479",
         "quantity":"30ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Jasmine",
@@ -166,8 +149,7 @@
         "ratings":"5",
         "price":" 379",
         "quantity":"30ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
 
 
@@ -185,8 +167,7 @@
         "ratings":"5",
         "price":" 679",
         "quantity":"60ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Arcane",
@@ -194,8 +175,7 @@
         "ratings":"4",
         "price":" 679",
         "quantity":"60ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
 
     },
     {
@@ -204,8 +184,7 @@
         "ratings":"4",
         "price":" 679",
         "quantity":"60ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Verena",
@@ -213,8 +192,7 @@
         "ratings":"5",
         "price":" 679",
         "quantity":"60ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Adira",
@@ -222,8 +200,7 @@
         "ratings":"5",
         "price":" 679",
         "quantity":"60ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Arsh",
@@ -231,8 +208,7 @@
         "ratings":"5",
         "price":" 679",
         "quantity":"60ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Orphic Musk",
@@ -240,8 +216,7 @@
         "ratings":"5",
         "price":" 279",
         "quantity":"60ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Irenic Oud",
@@ -249,8 +224,7 @@
         "ratings":"5",
         "price":" 279",
         "quantity":"60ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10
     },
     {
         "name":"Jasmine",
@@ -258,8 +232,7 @@
         "ratings":"5",
         "price":" 679",
         "quantity":"60ml",
-        "available-Item":10,
-        "image": "../assets/"
+        "available-Item":10 
     }
 
 ]
