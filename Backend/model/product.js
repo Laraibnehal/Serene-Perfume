@@ -28,10 +28,10 @@ const productSchema = new mongoose.Schema({
         type:String,
         required: [true, "Quantity Must be provided"],
     },
-    // availableItem:{
-    //     type:Number,
-    //     required: [true, "Available  item must be provided"]
-    // },
+    availableItem:{
+        type:Number,
+        required: [true, "Available  item must be provided"]
+    },
     // company:{
     //     type: String,
     //     enum:{
